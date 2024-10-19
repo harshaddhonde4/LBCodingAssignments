@@ -1,1 +1,2 @@
-Hello Folks, this are my Coding Assignment's and thier Solutions. This Repository includes Programs of Different Programming languag like C, C++ & Java
+Hello, folks!
+Welcome to my coding assignments repository, where you'll find solutions in various programming languages, including C, C++, and Java.
